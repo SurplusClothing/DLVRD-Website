@@ -1,3 +1,1 @@
-# DLVRD-Website
-DLVRD website - test
-Test- typing in readme
+This is the readme.me file for DLVRD
